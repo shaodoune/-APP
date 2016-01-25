@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "还没账号？点击立即注册"; ObjectID = "2oU-bU-bNe"; */
+"2oU-bU-bNe.normalTitle" = "还没账号？点击立即注册";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "3Wm-e7-j2l"; */
+"3Wm-e7-j2l.normalTitle" = "登录";
+
+/* Class = "UILabel"; text = "点击头像登录"; ObjectID = "8BT-cZ-xh1"; */
+"8BT-cZ-xh1.text" = "点击头像登录";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "QFo-97-D6H"; */
+"QFo-97-D6H.placeholder" = "密码";
+
+/* Class = "UITextField"; placeholder = "手机号码"; ObjectID = "QfZ-Pu-fdF"; */
+"QfZ-Pu-fdF.placeholder" = "手机号码";
+
+/* Class = "UITextField"; placeholder = "用户名"; ObjectID = "RMj-Yi-1yp"; */
+"RMj-Yi-1yp.placeholder" = "用户名";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "ZSh-Dn-bC3"; */
+"ZSh-Dn-bC3.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "验证手机号"; ObjectID = "ala-Xu-Gqv"; */
+"ala-Xu-Gqv.text" = "验证手机号";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "eyD-o7-LJ3"; */
+"eyD-o7-LJ3.placeholder" = "密码";
+
+/* Class = "UITextField"; placeholder = "验证码"; ObjectID = "fMt-Y3-bIq"; */
+"fMt-Y3-bIq.placeholder" = "验证码";
+
+/* Class = "UITextField"; placeholder = "用户名"; ObjectID = "fgQ-08-X8q"; */
+"fgQ-08-X8q.placeholder" = "用户名";
+
+/* Class = "UITextField"; placeholder = "邮箱(可选)"; ObjectID = "hUh-yu-MJm"; */
+"hUh-yu-MJm.placeholder" = "邮箱(可选)";
+
+/* Class = "UIButton"; normalTitle = "点击获取验证码"; ObjectID = "tcJ-tu-Oid"; */
+"tcJ-tu-Oid.normalTitle" = "点击获取验证码";
+
+/* Class = "UIButton"; normalTitle = "退出登录"; ObjectID = "uDn-wa-ggQ"; */
+"uDn-wa-ggQ.normalTitle" = "退出登录";
+
+/* Class = "UIButton"; normalTitle = "验证"; ObjectID = "wbB-ua-481"; */
+"wbB-ua-481.normalTitle" = "验证";

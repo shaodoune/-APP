@@ -1,0 +1,120 @@
+//
+//  PrefixHeader.pch
+//  DOTAHelper
+//
+//  Created by 千锋 on 16/1/9.
+//  Copyright © 2016年 abc. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+//分享
+#define AppKey_Weibo @"2426576720"
+#define App_Secret_Weibo @"93b9bfa3da665010cea18db3df7e70a2"
+
+#define AppKey_ShareSDK @"f04c7bb19455"
+
+
+//第三方库
+#import <KVNProgress.h>
+#import <MBProgressHUD.h>
+#import <PopMenu.h>
+#import <UIImageView+WebCache.h>
+#import <BmobSDK/Bmob.h>
+#import <RESideMenu.h>
+#import <SVProgressHUD.h>
+#import "BaseModel.h"
+#import <MJRefresh.h>
+#import <MJExtension.h>
+#import <Masonry.h>
+//#import <ShareSDK/ShareSDK.h>
+//#import <ShareSDKUI/ShareSDKUI.h>
+
+
+//屏幕尺寸
+#define SCREEN_SIZE [UIScreen mainScreen].bounds.size
+
+//字体相关
+#define FONT_BIG [UIFont systemFontOfSize:20]
+#define FONT_NORMAL [UIFont systemFontOfSize:16]
+#define FONT_SAMLL [UIFont systemFontOfSize:10]
+
+#define FONT_CD [UIFont systemFontOfSize:10]
+#define FONT_ITEMNAME [UIFont systemFontOfSize:12]
+#define FONT_ITEMATTRIB [UIFont systemFontOfSize:15]
+#define FONT_ITEMLORE [UIFont systemFontOfSize:10]
+#define FONT_ITEMCOST [UIFont systemFontOfSize:11]
+
+//间距
+#define SPACING_BIG 10
+#define SPACING_NORMAL 8
+#define SPACING_SMALL 5
+
+#define USER_REFRESH_NOTICE @"UserRefreshNotice"
+
+//资讯网址链接
+
+#define NEWS_URL @"http://www.dota2.com.cn/wapnews/%@%ld.html"
+//时期，ID
+#define NEWS_DETAIL_URL @"http://www.dota2.com.cn/wapnews/article/details/%@/%@.html"
+#define FIRST_NEWS_SCROLL_URL @"http://www.dota2.com.cn/wapnews/sliderImagesData_v2.html"
+
+//战绩查询
+#define PERSON_SOCRE_URL @"http://www.dota2.com.cn/app1/events/record"
+
+//天梯排行
+#define RANK_URL @"http://members.dota2.com.cn/dota/rank"
+
+//背景封面
+#define BACKGROUND_URL @"http://www.dota2.com.cn/app1/bgcover/list.html"
+
+//DOTA2壁纸
+#define WALLPAPER_URL @"http://www.dota2.com.cn/app1/wallpaper/list.html"
+
+//插眼教学
+#define CHAYAN_URL @"http://www.dota2.com.cn/app1/events/chayan/"
+
+
+//视频网址链接
+
+//最新
+#define NEW_LIST_URL @"http://www.dota2.com.cn/app1/data/videoNewest.json"
+
+
+//赛事
+#define EVENT_LIST_URL @"http://www.dota2.com.cn/app1/data/sorts/3.json"
+
+
+//集锦
+#define FUN_LIST_URL @"http://www.dota2.com.cn/app1/data/sorts/2.json"
+
+//id, page
+#define VIEDEOSECOND_LIST__URL @"http://www.dota2.com.cn/app1/data/videos/%@_%ld.json"
+
+//视频播放链接
+#define VIDEO_PLAY_URL @"http://v.youku.com/v_show/id_%@.html"
+
+
+
+//直播视频
+#define LIVE_LIST_URL @"http://msgpush.dota2.com.cn:8282/api/public/video/douyu/liveList?app_id=wanmeidota2&sig=2996a708fc9cb5ac397d9850b2d0bfaf"
+//直播视频链接
+#define LIVE_URL @"http://msgpush.dota2.com.cn:8282/api/public/video/douyu/roomInfo?roomId=%@&app_id=wanmeidota2&sig=32dd0d47b53463c12f855557b1a14ad8"
+//解说
+#define COMMENTATOR_LIST_URL @"http://www.dota2.com.cn/app1/data/sorts/4.json"
+
+
+//天梯排行
+#define TIANTI_URL @"http://www.dota2.com.cn/event/201406/ttph/index.htm"
+
+//战绩查询
+#define SORCE_URL @"http://www.dota2.com.cn/app1/events/record"
+
+//刀塔壁纸
+#define DOTA_BZ @"http://www.dota2.com.cn/app1/wallpaper/list.html"
+
+#define CELL_HEIGHT 85
+
+#endif /* PrefixHeader_pch */
